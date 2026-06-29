@@ -1,4 +1,4 @@
-# 
+# 原生 Cubase 插件 Mac OS版 | 自动 Cubase 插件 PC Windows版。集成 绿幕抠像 和 虚拟摄像头，跨平台性能最大化。
 
 
 
